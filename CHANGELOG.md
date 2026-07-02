@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.110.1 (2026-07-02)
+
+Full Changelog: [sdk-v0.110.0...sdk-v0.110.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.110.0...sdk-v0.110.1)
+
+### Chores
+
+* **docs:** small updates to field descriptions ([e25b885](https://github.com/anthropics/anthropic-sdk-typescript/commit/e25b885eacbf26332e6133abff2ea7d72fef2b30))
+
 ## 0.110.0 (2026-07-02)
 
 Full Changelog: [sdk-v0.109.1...sdk-v0.110.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.109.1...sdk-v0.110.0)
